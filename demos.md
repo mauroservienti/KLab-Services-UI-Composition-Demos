@@ -3,7 +3,7 @@
 - it's a sample and by design is wrong, models a real business scenario in the simplest possible way
 - it's not fault tolerant, it's a sample
 - it doesn't scale out, it's a sample
-- utilizes SQLite and RavenDB Embedded, sooooo many issues
+- utilizes SQLite and RavenDB Embedded
 
 ## master
 
